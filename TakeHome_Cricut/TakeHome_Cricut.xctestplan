@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "79EEF639-822E-4AC4-8B37-CEF829BF3B6D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TakeHome_Cricut.xcodeproj",
+        "identifier" : "12DE2A1F2DA33DCD00F2A401",
+        "name" : "TakeHome_CricutTests"
+      }
+    }
+  ],
+  "version" : 1
+}
